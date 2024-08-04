@@ -1,1 +1,1 @@
-#Link to the prrojet : https://advice-application.vercel.app/
+#Link to the project: https://advice-application.vercel.app/
